@@ -41,10 +41,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![Firman's Stats](https://github-readme-stats.vercel.app/api?username=firmanhdy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmanhdy&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firmanhdy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
