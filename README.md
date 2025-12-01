@@ -43,10 +43,11 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firmanhdy&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanhdy&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firmanhdy&show_icons=true&theme=tokyonight&hide_border=true" alt="Firman's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanhdy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
 
 ---
 
