@@ -1,15 +1,3 @@
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firmanhdy&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Firman's GitHub stats](https://github-readme-stats.vercel.app/api?username=firmanhdy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
 <h1 align="center">Hi there, I'm Firman Hidayat! 👋</h1>
 <h3 align="center">Informatics Graduate | Web Developer | IoT Enthusiast</h3>
 
@@ -31,7 +19,6 @@
 - 🔭 I’m currently working on **Tikako Resto Management System** and **Academic Information Systems**.
 - 🌱 I’m currently learning **Advanced Laravel** and **IoT Integration (ESP32)**.
 - 👯 I’m looking to collaborate on **Web Development Projects**.
-- 🤝 I’m an active member of **PMII Banjarnegara**.
 - ⚡ Fun fact: I love connecting code with the physical world through sensors!
 
 ---
@@ -51,6 +38,15 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firmanhdy&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firmanhdy&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
 
 ---
 
